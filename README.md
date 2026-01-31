@@ -24,7 +24,19 @@ Maxwell’s Equation in two dimensions (2D)
 
 Maxwell’s Equation in three dimensions (3D)
 
+## MAXWELL'S EQUATIONS (Differential Form)
 
+1. Gauss's Law for Electricity:
+   div(E) = ρ / ε₀
+
+2. Gauss's Law for Magnetism:
+   div(B) = 0
+
+3. Faraday's Law of Induction:
+   curl(E) = - ∂B / ∂t
+
+4. Ampere–Maxwell Law:
+   curl(B) = μ₀ J + μ₀ ε₀ ∂E / ∂t
 ## Project Structure Description
 
 The project is organized into three main folders:
