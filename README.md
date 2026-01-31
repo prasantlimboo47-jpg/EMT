@@ -24,6 +24,29 @@ Maxwell’s Equation in two dimensions (2D)
 
 Maxwell’s Equation in three dimensions (3D)
 
+## 📐 Maxwell’s Equations Included
+
+### 1. Gauss’s Law (Electric)
+\[
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+\]
+
+### 2. Gauss’s Law (Magnetism)
+\[
+\nabla \cdot \mathbf{B} = 0
+\]
+
+### 3. Faraday’s Law of Induction
+\[
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}
+\]
+
+### 4. Ampère–Maxwell Law
+\[
+\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
+\]
+
+
 ## Project Structure Description
 
 The project is organized into three main folders:
