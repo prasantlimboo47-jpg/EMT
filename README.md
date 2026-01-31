@@ -1,12 +1,12 @@
-Electromagnetic Laws Library (C++)
+## Electromagnetic Laws Library (C++)
 
 This project is a simple C++ library created to demonstrate the implementation of fundamental Electromagnetic (EM) laws using proper programming structure. It is designed mainly for academic learning, assignments, and basic understanding of how physical laws can be represented computationally.
 
-Overview
+## Overview
 
 The library contains implementations of important electromagnetic laws such as Coulomb’s law, Ampere’s law, Biot–Savart law, Gauss’s law, and simplified forms of Maxwell’s equations in one, two, and three dimensions. The project follows a clean structure with separate header files, source files, and example programs.
 
-Implemented Electromagnetic Laws
+## Implemented Electromagnetic Laws
 
 The following laws are included in this library:
 
@@ -24,7 +24,7 @@ Maxwell’s Equation in two dimensions (2D)
 
 Maxwell’s Equation in three dimensions (3D)
 
-Project Structure Description
+## Project Structure Description
 
 The project is organized into three main folders:
 
@@ -34,7 +34,7 @@ src: Contains source files implementing the declared functions
 
 examples: Contains example programs demonstrating how to use the library
 
-Purpose of the Project
+## Purpose of the Project
 
 This project is created for educational purposes. It helps students:
 
@@ -46,7 +46,7 @@ Practice manual compilation using a compiler
 
 Build a basic scientific programming portfolio for GitHub
 
-Tools Used
+## Tools Used
 
 C++ programming language
 
