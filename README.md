@@ -46,6 +46,7 @@ Maxwell’s Equation in three dimensions (3D)
 \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
 \]
 
+---
 
 ## Project Structure Description
 
